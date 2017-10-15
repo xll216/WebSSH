@@ -62,6 +62,7 @@
 
 </head>
 <body>
+<h3>二级联动测试</h3>
 部门：
 <select id="depart" onchange="showPost(this)">
     <option value="-1">----请--选--择----</option>
